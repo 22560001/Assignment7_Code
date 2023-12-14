@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702529208 source:c:\users\admin\desktop\merging_twolist\main.cpp
+	<iostream>
+	<vector>
+
